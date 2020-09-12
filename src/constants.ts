@@ -1,3 +1,10 @@
+/*
+ * @Author: kazura233
+ * @Date: 2020-09-13 00:52:43
+ * @Last Modified by: kazura233
+ * @Last Modified time: 2020-09-13 00:58:33
+ */
+
 export const ALL_TODOS = 'all'
 
 export const ACTIVE_TODOS = 'active'
