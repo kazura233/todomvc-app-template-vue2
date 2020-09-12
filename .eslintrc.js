@@ -28,5 +28,6 @@ module.exports = {
     '@typescript-eslint/camelcase': 'off',
     '@typescript-eslint/class-name-casing': 'off',
     '@typescript-eslint/no-var-requires': 'off',
+    '@typescript-eslint/no-inferrable-types': 'off',
   },
 }

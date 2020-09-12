@@ -10,7 +10,7 @@ export default class extends Vue {
     return (
       <section class="main">
         <input id="toggle-all" class="toggle-all" type="checkbox" />
-        <label htmlFor="toggle-all">Mark all as complete</label>
+        <label for="toggle-all">Mark all as complete</label>
         <ul class="todo-list">{this.dataSource.map(this.$scopedSlots.default!)}</ul>
       </section>
     )
